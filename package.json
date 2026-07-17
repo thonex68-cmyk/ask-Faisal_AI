@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "Faisal AI Chatbot",
   "main": "script.js",
-  "scripts": {
-    "start": "live-server"
-  },
+"scripts": {
+  "start": "node server.js"
+}
+  ,
   "dependencies": {
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
